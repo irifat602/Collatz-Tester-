@@ -108,7 +108,7 @@ Current sequence: [27, 82, 41, 124, 62, 31, 94, 47, 142, 71, 214, 107, 322, 161,
 1. Clone the repository or download the Python files.
 2. Run the desired program using Python:
  ```bash
- python collatz_conjecture_explorer.py  # For Program 1
+ Collatz tester 2^68+.py  # For Program 1
  python collatz_sequence_explorer.py    # For Program 2
 
 License
